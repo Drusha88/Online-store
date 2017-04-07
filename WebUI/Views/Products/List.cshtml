@@ -1,16 +1,15 @@
-﻿@using Domain.Entities
-@model IEnumerable<Product>
+﻿@using WebUI.Models
+@model ProductsListViewModel
 
 @{
     ViewBag.Title = "Товар";
 }
 
-@foreach (Product product in Model)
+@foreach (var product in Model.Products)
 {
-    <div>
-        <h3>@product.Name - @product.Brand</h3>
-        <p>@product.Description</p>
-        <h4>@product.Price.ToString("#.## грн")</h4>
-    </div>
-    <hr />
+    @Html.Partial("_ProductSummary", product)
 }
+
+<div class="btn-group pull-right">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x, category = Model.CurrentCategory }))
+</div>

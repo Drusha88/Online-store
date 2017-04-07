@@ -34,3 +34,39 @@ c:\Users\ei-ryzhenko\documents\visual studio 2013\Projects\Domain\WebUI\bin\Enti
 c:\Users\ei-ryzhenko\documents\visual studio 2013\Projects\Domain\WebUI\bin\EntityFramework.SqlServer.dll
 c:\Users\ei-ryzhenko\documents\visual studio 2013\Projects\Domain\WebUI\bin\EntityFramework.xml
 c:\Users\ei-ryzhenko\documents\visual studio 2013\Projects\Domain\WebUI\bin\EntityFramework.SqlServer.xml
+C:\shop\Shop\WebUI\bin\WebUI.dll.config
+C:\shop\Shop\WebUI\bin\WebUI.dll
+C:\shop\Shop\WebUI\bin\WebUI.pdb
+C:\shop\Shop\WebUI\bin\Castle.Core.dll
+C:\shop\Shop\WebUI\bin\Domain.dll
+C:\shop\Shop\WebUI\bin\EntityFramework.dll
+C:\shop\Shop\WebUI\bin\EntityFramework.SqlServer.dll
+C:\shop\Shop\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\shop\Shop\WebUI\bin\Moq.dll
+C:\shop\Shop\WebUI\bin\Ninject.dll
+C:\shop\Shop\WebUI\bin\Ninject.Web.Common.dll
+C:\shop\Shop\WebUI\bin\Ninject.Web.Mvc.dll
+C:\shop\Shop\WebUI\bin\System.Web.Helpers.dll
+C:\shop\Shop\WebUI\bin\System.Web.Mvc.dll
+C:\shop\Shop\WebUI\bin\System.Web.Razor.dll
+C:\shop\Shop\WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\shop\Shop\WebUI\bin\System.Web.Webpages.dll
+C:\shop\Shop\WebUI\bin\System.Web.Webpages.Razor.dll
+C:\shop\Shop\WebUI\bin\WebActivatorEx.dll
+C:\shop\Shop\WebUI\bin\Domain.pdb
+C:\shop\Shop\WebUI\bin\Castle.Core.xml
+C:\shop\Shop\WebUI\bin\EntityFramework.xml
+C:\shop\Shop\WebUI\bin\EntityFramework.SqlServer.xml
+C:\shop\Shop\WebUI\bin\Moq.xml
+C:\shop\Shop\WebUI\bin\Ninject.xml
+C:\shop\Shop\WebUI\bin\Ninject.Web.Common.xml
+C:\shop\Shop\WebUI\bin\Ninject.Web.Mvc.xml
+C:\shop\Shop\WebUI\bin\System.Web.Razor.xml
+C:\shop\Shop\WebUI\bin\System.Web.Webpages.xml
+C:\shop\Shop\WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\shop\Shop\WebUI\bin\System.Web.Webpages.Razor.xml
+C:\shop\Shop\WebUI\bin\System.Web.Helpers.xml
+C:\shop\Shop\WebUI\bin\System.Web.Mvc.xml
+C:\shop\Shop\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\shop\Shop\WebUI\obj\Debug\WebUI.dll
+C:\shop\Shop\WebUI\obj\Debug\WebUI.pdb
