@@ -179,7 +179,7 @@ namespace UnitTests
         }
 
         [TestMethod]
-        public void Generete_Genre_Specific_Book_Count()
+        public void Generete_Genre_Specific_Products_Count()
         {
             // arrange
             Mock<IProductRepository> mock = new Mock<IProductRepository>();

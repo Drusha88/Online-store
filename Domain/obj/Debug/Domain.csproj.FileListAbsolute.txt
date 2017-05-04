@@ -21,3 +21,26 @@ c:\users\ei-ryzhenko\documents\visual studio 2013\Projects\Domain\Domain\bin\Deb
 c:\users\ei-ryzhenko\documents\visual studio 2013\Projects\Domain\Domain\bin\Debug\EntityFramework.SqlServer.dll
 c:\users\ei-ryzhenko\documents\visual studio 2013\Projects\Domain\Domain\bin\Debug\EntityFramework.xml
 c:\users\ei-ryzhenko\documents\visual studio 2013\Projects\Domain\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\shop\Shop\Domain\bin\Debug\Domain.dll.config
+C:\shop\Shop\Domain\bin\Debug\Domain.dll
+C:\shop\Shop\Domain\bin\Debug\Domain.pdb
+C:\shop\Shop\Domain\bin\Debug\EntityFramework.dll
+C:\shop\Shop\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\shop\Shop\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\shop\Shop\Domain\bin\Debug\System.Web.Helpers.dll
+C:\shop\Shop\Domain\bin\Debug\System.Web.Mvc.dll
+C:\shop\Shop\Domain\bin\Debug\System.Web.Razor.dll
+C:\shop\Shop\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\shop\Shop\Domain\bin\Debug\System.Web.WebPages.dll
+C:\shop\Shop\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\shop\Shop\Domain\bin\Debug\EntityFramework.xml
+C:\shop\Shop\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\shop\Shop\Domain\bin\Debug\System.Web.Helpers.xml
+C:\shop\Shop\Domain\bin\Debug\System.Web.Mvc.xml
+C:\shop\Shop\Domain\bin\Debug\System.Web.Razor.xml
+C:\shop\Shop\Domain\bin\Debug\System.Web.WebPages.xml
+C:\shop\Shop\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\shop\Shop\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\shop\Shop\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\shop\Shop\Domain\obj\Debug\Domain.dll
+C:\shop\Shop\Domain\obj\Debug\Domain.pdb

@@ -1,0 +1,51 @@
+﻿@model WebUI.Models.CartIndexViewModel
+
+@{
+    ViewBag.Title = "Store: Ваша корзина";
+}
+
+<h2>ViewBag.Title</h2>
+
+
+
+<table id="cartTable" class="table">
+    <thead>
+        <tr>
+            <th>Количество</th>
+            <th>Наименование</th>
+            <th class="text-right">Цена</th>
+            <th class="text-right">Сумма</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var line in Model.Cart.Lines)
+        {
+            <tr>
+                <td class="text-center">@line.Quantity</td>
+                <td class="text-left">@line.Product.Name</td>
+                <td class="text-right">@line.Product.Price.ToString("#.## грн")</td>
+                <td class="text-right">@((line.Quantity * line.Product.Price).ToString("#.## грн"))</td>
+                <td>
+                    @using (Html.BeginForm("RemoveFromCart", "Cart"))
+                    {
+                    @Html.Hidden("ProductID", line.Product.ProductId)
+                    @Html.HiddenFor( x=> x.ReturnUrl)
+                    <input class="btn btn-sm btn-warning" type="submit" value="Удалить" />
+}
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3" class="text-right">Итого:</td>
+            <td class="text-right">
+                @Model.Cart.ComputeTotalValue().ToString("#.## грн")
+            </td>
+        </tr>
+    </tfoot>
+</table>
+
+<div class="text-center">
+    <a class="btn btn-primary" href="@Model.ReturnUrl">Продолжить покупки</a>
+</div>
