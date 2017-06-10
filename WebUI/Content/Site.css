@@ -1,14 +1,35 @@
-﻿#price{
+﻿#price {
     margin-bottom: 5px;
 }
 
 #cartTable td {
-    vertical-align:middle;
-
+    vertical-align: middle;
 }
 
-.navbar-right{
+.navbar-right {
     float: right !important;
     margin-right: 15px;
     margin-left: 15px;
+}
+
+.field-validation-error {
+    color: #f00;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+.input-validation-error {
+    border: 1px solid #f00;
+    background-color: #fee;
+}
+
+.validation-summary-errors {
+    font-weight: bold;
+    color: #f00;
+}
+
+.validation-summary-valid {
+    display: none;
 }
